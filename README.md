@@ -73,12 +73,19 @@ waste_segg_final/
 3. Run through the steps:
 
 -- Upload and unzip the dataset(File name - Data.zip) 
-
 -- Load, preprocess, and augment images
+-- Train the CNN model
+-- Evaluate and visualize results
 
---- Train the CNN model
+---
+## Future Improvements
+1. Use pretrained models like MobileNetV2 for better accuracy
+2. Apply class weighting to address imbalance
+3. Deploy as a web app for real-world testing
 
---- Evaluate and visualize results
-   
+ Author
+Nitish Narayanan
+📧 LinkedIn - https://www.linkedin.com/in/nitish-narayanan/
+@ https://github.com/nitishnarayanan002
 
 
