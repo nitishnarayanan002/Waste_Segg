@@ -83,7 +83,9 @@ waste_segg_final/
 2. Apply class weighting to address imbalance
 3. Deploy as a web app for real-world testing
 
- Author
+---
+## Author
+
 Nitish Narayanan
 📧 LinkedIn - https://www.linkedin.com/in/nitish-narayanan/
 @ https://github.com/nitishnarayanan002
