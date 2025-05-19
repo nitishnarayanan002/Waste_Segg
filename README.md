@@ -4,7 +4,7 @@ This project implements a Convolutional Neural Network (CNN) model to automatica
 
 ## 📂 Project Structure
 waste_segg_final/
-├── data/ # Dataset (ZIP file or extracted folders)
+├── data/ # Dataset - You can download the file from this link - https://drive.google.com/file/d/1fROmPkKLXcOV2RexEpkpgL9TbVgKJH09/view?usp=sharing
 ├── notebooks/ # Colab
 ├── models/ # Saved model files
 ├── utils/ # Custom utility scripts (if any)
@@ -67,12 +67,12 @@ waste_segg_final/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/nitishnarayanan002/waste_segg_final.git
+   git clone https://github.com/nitishnarayanan002/Waste_Segg.git
 2. Open the notebook in Google Colab or Jupyter.
 
 3. Run through the steps:
 
--- Upload and unzip the dataset(File name - Data.zip) 
+-- Upload and unzip the dataset - (Get the file from this link - https://drive.google.com/file/d/1fROmPkKLXcOV2RexEpkpgL9TbVgKJH09/view?usp=sharing)
 -- Load, preprocess, and augment images
 -- Train the CNN model
 -- Evaluate and visualize results
@@ -87,7 +87,9 @@ waste_segg_final/
 ## Author
 
 Nitish Narayanan
+
 📧 LinkedIn - https://www.linkedin.com/in/nitish-narayanan/
+
 @ https://github.com/nitishnarayanan002
 
 
